@@ -1,1 +1,1 @@
-Wannabe <em>Tech Superstar</em> Speacilised in <strong>Frond-end Dev</strong>
+Wannabe _Tech Superstar_ Speacilised in <strong>Frond-end Dev</strong>
